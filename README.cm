@@ -1,0 +1,29 @@
+#Actividad 1 - Patrones de diseño
+
+##Autores
+- Beycy Yuliet Rojas Acero
+- Jhon Alexander Tenjo Romero
+- Richard Jose Niño Martinez
+- Edgar Andrés Romero Otálora
+
+##Tecnologías
+
+- Java
+- IntelliJ IDEA
+
+##Estructura del proyecto
+
+El código del ejercicio se encuentra en un paquete de la 
+ruta /src/main/java/co/edu/unisabana/.
+
+
+
+## Ejecución
+
+1. Clonar o descargar el repositorio
+2. Abrir IntelliJ IDEA
+3. Seleccionar **Open Project**
+4. Elegir la carpeta `actividad2` descargada del repositorio
+5. Esperar a que IntelliJ cargue el proyecto
+6. Ejecutar la clase `Main` de cada uno de los ejercicios
+
